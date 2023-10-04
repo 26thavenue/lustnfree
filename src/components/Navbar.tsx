@@ -7,7 +7,7 @@ import{AiFillInstagram,AiFillFacebook,AiOutlineMenu} from 'react-icons/ai'
 const Navbar = () => {
   return (
     <div>
-        <div className=" flex  text-center lg:flex justify-between w-[100vw] bg-blue-100 p-6">
+        <div className=" flex  text-center lg:flex justify-between w-[100vw] bg-blue-100 p-10">
         <p className="text-[22px] font-DM font-bold">LUST&<span className="text-red-600"> FREE</span></p>
         <div className=' hidden items-center font-DM gap-4  lg:flex'>
                 <p>Home</p>
