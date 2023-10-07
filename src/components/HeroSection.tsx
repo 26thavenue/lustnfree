@@ -2,7 +2,7 @@ import {AiOutlineArrowRight} from 'react-icons/ai'
 
 const HeroSection = () => {
   return (
-    <div className="mt-40 bg-blue-100">
+    <div className="mt-40 text-white">
         <div className=" font-DM flex flex-col justify-center items-center gap-6 ">
             <h1 className="text-5xl  font-bold">Welcome To Lust & Free!</h1>
             <p className="w-[50%] text-center">We have the best perspective on sex and we aim to 
