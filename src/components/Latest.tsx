@@ -9,21 +9,21 @@ const Latest = () => {
             <img src={image} alt='latest' className=""/>
             <h1 className="font-bold ">06 Ways Your Friends Influence Your Sexual Orientation.</h1>
             <p className="text-gray-400">Lorem ipsum dolor sit amet consectetur. In urna integer justo rhoncus cursus. Vitae vitae convallis tempus tellus.</p>
-            <p className="text-red-700 underline">Read More</p>
+            <p className="text-red-700 cursor-pointer  hover:underline transition-all ease-in duration-500">Read More</p>
             </div>
             {/* // SECOND COLUMN */}
             <div className="flex flex-col gap-6  justify-center shadow-lg hover:shadow-md p-3">
             <img src={image} alt='latest' className=""/>
             <h1 className="font-bold ">06 Ways Your Friends Influence Your Sexual Orientation.</h1>
             <p className="text-gray-400">Lorem ipsum dolor sit amet consectetur. In urna integer justo rhoncus cursus. Vitae vitae convallis tempus tellus.</p>
-            <p className="text-red-700 underline">Read More</p>
+            <p className="text-red-700 cursor-pointer  hover:underline transition-all ease-in duration-500">Read More</p>
             </div>
             {/* // THIRD COLUMN */}
             <div className="flex flex-col gap-6 utems-center justify-center shadow-lg hover:shadow-md p-3">
             <img src={image} alt='latest' className=""/>
             <h1 className="font-bold ">06 Ways Your Friends Influence Your Sexual Orientation.</h1>
             <p className="text-gray-400">Lorem ipsum dolor sit amet consectetur. In urna integer justo rhoncus cursus. Vitae vitae convallis tempus tellus.</p>
-            <p className="text-red-700 underline">Read More</p>
+            <p className="text-red-700 cursor-pointer  hover:underline transition-all ease-in duration-500">Read More</p>
             </div>
         </div>
         
